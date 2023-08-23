@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RQScanner</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="title_activity_riwayat_transaksi">RiwayatTransaksi</string>
+</resources>
